@@ -1,1 +1,1 @@
-# Sigm
+# Sigma
