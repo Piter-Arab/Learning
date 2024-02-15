@@ -1,3 +1,3 @@
 # Sigma_07
     
-lig
+ligm
